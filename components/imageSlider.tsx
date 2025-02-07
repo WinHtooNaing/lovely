@@ -53,7 +53,7 @@ const ImageSlider = ({ itemList }: ImageSliderProps) => {
       <View
         style={{
           position: "absolute",
-          bottom: 100, // Adjust as needed to bring pagination closer to the image
+          bottom: 50, // Adjust as needed to bring pagination closer to the image
           width: "100%",
           alignItems: "center", // Center align the pagination
         }}
